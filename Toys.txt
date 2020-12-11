@@ -1,0 +1,18 @@
+Car
+100
+5 10
+Bear
+150
+3 12
+Ball
+300
+8 16
+ToyGun
+400
+10 14
+Doll
+200
+4 10
+ToyThatCostsLessThan40Grivnas)
+39
+5 50
